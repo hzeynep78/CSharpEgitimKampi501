@@ -24,11 +24,6 @@ namespace CSharpEgitimKampi501.Repositories
             throw new NotImplementedException();
         }
 
-        public Task GetByProductIdAsync(int id)
-        {
-            throw new NotImplementedException();
-        }
-
         public Task UpdateProductAsync(UpdateProductDto updateProductDto)
         {
             throw new NotImplementedException();
